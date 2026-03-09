@@ -1,6 +1,6 @@
 function Home(){
 return(
-        <div style={{
+    <div style={{
             display: "flex",
             flexDirection: "column",
             justifyContent: "center",
